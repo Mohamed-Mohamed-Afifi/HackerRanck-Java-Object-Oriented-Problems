@@ -6,4 +6,5 @@ public class PrintArray<T> {
             System.out.println(ele);
         }
     }
+
 }
